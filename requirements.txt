@@ -6,3 +6,4 @@ argparse==1.2.1
 click==6.7
 itsdangerous==0.24
 wsgiref==0.1.2
+BzrTools==2.6.0
